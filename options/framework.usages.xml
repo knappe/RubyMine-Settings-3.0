@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="FrameworkUsages">
+    <project id="localshows" frameworks="Ruby on Rails" />
+    <project id="iauditpro" frameworks="Ruby on Rails" />
+    <project id="snugg-home" frameworks="Ruby on Rails" />
+    <project id="snuggaudit" frameworks="Ruby on Rails" />
+    <project id="digital-document-vault" frameworks="Ruby on Rails" />
+    <project id="prototype" frameworks="Ruby on Rails" />
+    <project id="itriage-server" frameworks="Ruby on Rails" />
+  </component>
+</application>
+

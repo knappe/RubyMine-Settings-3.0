@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="DimensionService">
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.24.1440.852" x="485" y="349" />
+    <location key="OptionsEditor.0.24.1440.852" x="130" y="24" />
+    <location key="scopes.0.24.1440.852" x="451" y="159" />
+    <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.24.1440.852" x="461" y="154" />
+    <location key="FileChooserDialogImpl" x="511" y="201" />
+    <location key="replaceTextDialog.0.24.1440.852" x="647" y="172" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.24.1440.852" x="487" y="283" />
+    <location key="FileChooserDialogImpl.0.24.1440.852" x="562" y="240" />
+    <location key="ProcessPopupWindow" x="992" y="584" />
+    <location key="VCS.ChangeListViewerDialog.0.24.1440.852" x="139" y="182" />
+    <location key="#Inspections.0.24.1440.852" x="361" y="134" />
+    <location key="findTextDialog.0.24.1440.852" x="579" y="329" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.24.1440.852" x="408" y="248" />
+    <location key="git4idea.checkout.branches.GitManageConfigurationsDialog.0.24.1440.852" x="358" y="94" />
+    <location key="git4idea.rebase.GitRebaseDialog.0.24.1440.852" x="420" y="285" />
+    <location key="DiffWindow.0.24.1440.852" x="100" y="124" />
+    <size key="Vcs.CompareWithSelectedRevision.Popup" width="467" height="425" />
+    <size key="FileChooserDialogImpl.0.24.1440.852" width="418" height="494" />
+    <size key="OptionsEditor.0.24.1440.852" width="1218" height="852" />
+    <size key="ProcessPopupWindow" width="434" height="292" />
+    <size key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.24.1440.852" width="518" height="597" />
+    <size key="findTextDialog.0.24.1440.852" width="699" height="436" />
+    <size key="FileChooserDialogImpl" width="418" height="535" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser.0.24.1440.852" width="544" height="405" />
+    <size key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.24.1440.852" width="457" height="333" />
+    <size key="javadoc.popup.0.24.1440.852" width="504" height="75" />
+    <size key="DiffWindow.0.24.1440.852" width="1240" height="649" />
+    <extendedState key="DiffWindow" state="0" />
+  </component>
+  <component name="LafManager">
+    <laf class-name="com.sun.java.swing.plaf.gtk.GTKLookAndFeel" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="KEEP_PRODUCTIVITY_HINTS" value="false" />
+    <property name="Non-Project Files" value="ffffe4" />
+    <property name="evlsprt.3" value="12e827ce007" />
+    <property name="installation.uid" value="c3b32f16-e13f-4f52-afe3-0f925174d1d5" />
+    <property name="Ruby.initialConfigurationShown" value="true" />
+    <property name="export.settings.path" value="$USER_HOME$/settings.jar" />
+    <property name="Tests" value="e7fadb" />
+    <property name="file.colors.enable.tests" value="e7fadb" />
+    <property name="Ruby.encodingUpdated" value="true" />
+    <property name="file.colors.enable.non.project" value="ffffe4" />
+    <property name="MoveFile.RECENT_KEYS" value="$USER_HOME$/git_repo/snuggaudit/app/controllers/admin&#10;/home/knappe/git_repo/snuggaudit/app/controllers/admin/company&#10;/home/knappe/git_repo/snuggaudit/app/views/admin/company&#10;/home/knappe/git_repo/snuggaudit/app/views/admin&#10;/home/knappe/git_repo/snuggaudit/app/views/admin/company/users" />
+    <property name="evlsprt2.3" value="12e278eacea" />
+  </component>
+</application>
+

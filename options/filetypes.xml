@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="FileTypeManager" version="8">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;" />
+    <extensionMap>
+      <mapping ext="jsonify" type="JSON" />
+      <mapping pattern="Appliances.js" type="JavaScript" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping ext="rabl" type="PLAIN_TEXT" />
+      <mapping ext="manifest" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
+

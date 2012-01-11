@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Rails Data Sources Detector" displayType="STICKY_BALLOON" />
+    <notification groupId="RVM Support" displayType="BALLOON" />
+    <notification groupId="Gems" displayType="BALLOON" />
+    <notification groupId="Indexing" displayType="BALLOON_ONLY" />
+  </component>
+</application>
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="FeatureUsageStatistics" first-run="1296677405415" have-been-shown="true" show-in-other="true" show-in-compilation="true">
+    <feature id="codeassists.surroundwith.statement" count="0" last-shown="1325607083502" last-used="0" average-frequency="0" shown-count="16" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="1324657200479" last-used="0" average-frequency="0" shown-count="8" />
+    <feature id="navigation.popup.camelprefix" count="7" last-shown="0" last-used="1325781404431" average-frequency="34095822" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" average-frequency="0" shown-count="0" />
+    <feature id="codeassists.comment.line" count="1967" last-shown="0" last-used="1326314887891" average-frequency="1691245" shown-count="0" />
+    <feature id="navigation.popup.file" count="184" last-shown="0" last-used="1326316466375" average-frequency="9925665" shown-count="0" />
+    <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" average-frequency="0" shown-count="0" />
+    <feature id="navigation.goto.usages" count="1" last-shown="1322671547591" last-used="1296772182111" average-frequency="0" shown-count="3" />
+    <feature id="navigation.popup.symbol" count="0" last-shown="1322671573793" last-used="0" average-frequency="0" shown-count="2" />
+    <feature id="navigation.popup.action" count="2" last-shown="0" last-used="1318914363925" average-frequency="23760242" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.ctrln" count="0" last-shown="0" last-used="0" average-frequency="0" shown-count="0" />
+    <feature id="find.completion" count="0" last-shown="0" last-used="0" average-frequency="0" shown-count="0" />
+    <feature id="editing.completion.replace" count="571" last-shown="0" last-used="1326313907619" average-frequency="5047140" shown-count="0" />
+    <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" average-frequency="0" shown-count="0" />
+    <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" average-frequency="0" shown-count="0" />
+    <feature id="editing.select.word" count="1780" last-shown="0" last-used="1326320647061" average-frequency="2170626" shown-count="0" />
+    <feature id="ruby.tools.rails.generators.popup" count="0" last-shown="0" last-used="0" average-frequency="0" shown-count="0" />
+    <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" average-frequency="0" shown-count="0" />
+    <feature id="ruby.tools.rake.popup" count="0" last-shown="0" last-used="0" average-frequency="0" shown-count="0" />
+    <feature id="ui.tree.speedsearch" count="12" last-shown="0" last-used="1325877099051" average-frequency="33240784" shown-count="0" />
+    <feature id="navigation.popup.class" count="1" last-shown="0" last-used="1323215431045" average-frequency="0" shown-count="0" />
+    <feature id="codeassists.comment.block" count="15" last-shown="0" last-used="1314912353198" average-frequency="1181129" shown-count="0" />
+    <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" average-frequency="0" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="234" last-shown="0" last-used="1326314100891" average-frequency="8037777" shown-count="0" />
+    <feature id="editing.completion.basic" count="616" last-shown="0" last-used="1326313907629" average-frequency="4885359" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="0" last-shown="1325801816903" last-used="0" average-frequency="0" shown-count="4" />
+    <feature id="ui.scheme.quickswitch" count="0" last-shown="0" last-used="0" average-frequency="0" shown-count="0" />
+    <feature id="ruby.navigation.rails.popup" count="0" last-shown="0" last-used="0" average-frequency="0" shown-count="0" />
+    <feature id="find.recent.search" count="50" last-shown="0" last-used="1326314848149" average-frequency="21803056" shown-count="0" />
+    <feature id="navigation.recent.files" count="2" last-shown="0" last-used="1320338694365" average-frequency="2339152" shown-count="0" />
+    <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" average-frequency="0" shown-count="0" />
+    <feature id="editing.completion.camelHumps" count="8" last-shown="0" last-used="1326218054044" average-frequency="53761931" shown-count="0" />
+    <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" average-frequency="0" shown-count="0" />
+    <feature id="refactoring.rename" count="78" last-shown="0" last-used="1325998263645" average-frequency="12364568" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="1" last-shown="1323471778605" last-used="1321391533175" average-frequency="0" shown-count="2" />
+    <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" average-frequency="0" shown-count="0" />
+    <feature id="editing.completion.finishByDotEtc" count="93" last-shown="0" last-used="1322083830170" average-frequency="3012578" shown-count="0" />
+  </component>
+</application>
+
